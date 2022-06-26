@@ -1,0 +1,22 @@
+{
+    "dokumentasi_ormawa": [
+    {
+        "judul": "BEM FSI Unjani",
+        "konten": "Gambar/About.png",
+        "konten1": "Gambar/BEMFSI.png",
+        "konten2": "Gambar/Unjani.png"
+    },
+    {
+        "judul": "HM KMJ IF Unjani",
+        "konten": "Gambar/About.png",
+        "konten1": "Gambar/KMJIF.png",
+        "konten2": "Gambar/Unjani.png"
+    },
+    {
+        "judul": "HIMAKA Unjani",
+        "konten": "Gambar/About.png",
+        "konten1": "Gambar/HIMAKA.png",
+        "konten2": "Gambar/Unjani.png"
+    }
+    ]
+}

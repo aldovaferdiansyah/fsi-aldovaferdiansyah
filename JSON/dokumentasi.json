@@ -1,0 +1,40 @@
+{
+    "dokumentasi": [
+    {
+        "studi": "Studi Informatika",
+        "konten": "Gambar/About.png",
+        "konten1": "Gambar/IF.jpg",
+        "konten2": "Gambar/IF1.jpg",
+        "konten3": "Gambar/IF2.jpg",
+        "konten4": "Gambar/IF3.png",
+        "konten5": "Gambar/IF4.png"
+    },
+    {
+        "studi": "Studi Kimia",
+        "konten": "Gambar/About.png",
+        "konten1": "Gambar/Kimia.jpg",
+        "konten2": "Gambar/Kimia1.jpeg",
+        "konten3": "Gambar/Kimia2.jpg",
+        "konten4": "Gambar/Kimia3.jpg",
+        "konten5": "Gambar/Kimia4.jpg"
+    },
+    {
+        "studi": "Studi Sistem Informasi",
+        "konten": "Gambar/About.png",
+        "konten1": "Gambar/IF.jpg",
+        "konten2": "Gambar/IF1.jpg",
+        "konten3": "Gambar/IF2.jpg",
+        "konten4": "Gambar/IF3.png",
+        "konten5": "Gambar/IF4.png"
+    },
+    {
+        "studi": "Studi Magister Kimia",
+        "konten": "Gambar/About.png",
+        "konten1": "Gambar/Kimia.jpg",
+        "konten2": "Gambar/Kimia1.jpeg",
+        "konten3": "Gambar/Kimia2.jpg",
+        "konten4": "Gambar/Kimia3.jpg",
+        "konten5": "Gambar/Kimia4.jpg"
+    }
+    ]
+}
